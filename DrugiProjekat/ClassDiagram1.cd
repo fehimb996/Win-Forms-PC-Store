@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DrugiProjekat.clsUredjaj" Collapsed="true">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAIACAAAAAAAgACAEAAAAAQAAAAQAAAgAA=</HashCode>
+      <FileName>clsUredjaj.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DrugiProjekat.clsRacunar" Collapsed="true">
+    <Position X="18.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAgAACQQAAAAEgAQAABAAAAAAAAIAIAAAgAAA=</HashCode>
+      <FileName>clsRacunar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DrugiProjekat.clsDesktop" Collapsed="true">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsRacunar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrugiProjekat.clsLaptop" Collapsed="true">
+    <Position X="16.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAhAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAQAAAA=</HashCode>
+      <FileName>clsRacunar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrugiProjekat.clsRaspberryPi" Collapsed="true">
+    <Position X="18.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsRacunar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrugiProjekat.clsArduino" Collapsed="true">
+    <Position X="20.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>clsRacunar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrugiProjekat.clsNvidiaJetsonNano" Collapsed="true">
+    <Position X="23" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsRacunar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrugiProjekat.clsPrinter" Collapsed="true">
+    <Position X="1.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAABAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsPrinter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DrugiProjekat.clsInkJetPrinter" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrugiProjekat.clsLaserPrinter" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>clsPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrugiProjekat.clsMobilniUredjaj" Collapsed="true">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgQAAgAAAAAAABAAAACAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>clsMobilniUredjaj.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DrugiProjekat.clsTelefon" Collapsed="true">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>clsMobilniUredjaj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrugiProjekat.clsTablet" Collapsed="true">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsMobilniUredjaj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrugiProjekat.clsKonzola" Collapsed="true">
+    <Position X="6.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsKonzola.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DrugiProjekat.clsGamingKonzola" Collapsed="true">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsKonzola.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrugiProjekat.clsPrenosivaKonzola" Collapsed="true">
+    <Position X="7.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsKonzola.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DrugiProjekat.iUredjaj" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAgAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DrugiProjekat.iRacunar" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAQQAAAAAAAAAAAAAAAAAAAIAIAAAAAAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DrugiProjekat.iMobilniUredjaj" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgQAAAAAAAAAABAAAACAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
